@@ -1,0 +1,7 @@
+package Assignment_5;
+
+public class PDFGenerator implements ReportGenerator{
+    public void generateReport(){
+        System.out.println("We are now converting this report into a PDF");
+    }
+}
