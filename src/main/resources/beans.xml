@@ -1,0 +1,12 @@
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+           http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean id="mySQLDatabaseService" class="day2.MySQLDatabaseService"/>
+
+    <bean id="dataProcessor" class="day2.DataProcessor">
+        <constructor-arg ref="mySQLDatabaseService"/>
+    </bean>
+
+</beans>
