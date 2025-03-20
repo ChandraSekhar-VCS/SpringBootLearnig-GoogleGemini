@@ -1,4 +1,4 @@
-package Assignment_4;
+package day1.Assignment_4;
 
 public class DiskStorage implements DataStorage{
     public void store(String data){

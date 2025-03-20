@@ -1,4 +1,4 @@
-package Assignment_5;
+package day1.Assignment_5;
 
 public class CSVGenerator implements ReportGenerator {
     public void generateReport() {

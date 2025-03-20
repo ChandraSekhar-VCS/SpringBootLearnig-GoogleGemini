@@ -1,4 +1,4 @@
-package Assignment_1;
+package day1.Assignment_1;
 
 //MAIN  METHOD WITH CONSTRUCTOR INJECTION
 //public class Main {

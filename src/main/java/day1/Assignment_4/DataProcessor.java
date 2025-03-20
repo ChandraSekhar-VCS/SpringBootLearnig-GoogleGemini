@@ -1,4 +1,4 @@
-package Assignment_4;
+package day1.Assignment_4;
 
 public class DataProcessor {
     private DataStorage storage;

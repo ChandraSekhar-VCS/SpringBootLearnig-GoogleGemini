@@ -1,4 +1,4 @@
-package Assignment_3;
+package day1.Assignment_3;
 
 public class Application {
     private Logger logger;

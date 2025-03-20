@@ -1,4 +1,4 @@
-package Assignment_2;
+package day1.Assignment_2;
 //CONSTRUCTOR INJECTION
 //public class Main {
 //    public static void main(String[] args) {

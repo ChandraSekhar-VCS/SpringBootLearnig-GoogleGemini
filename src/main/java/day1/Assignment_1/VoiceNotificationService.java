@@ -1,4 +1,4 @@
-package Assignment_1;
+package day1.Assignment_1;
 
 public class VoiceNotificationService implements NotificationService {
     @Override

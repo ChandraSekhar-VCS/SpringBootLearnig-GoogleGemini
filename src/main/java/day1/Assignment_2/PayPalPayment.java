@@ -1,4 +1,4 @@
-package Assignment_2;
+package day1.Assignment_2;
 
 public class PayPalPayment implements PaymentGateway {
     public void processPayment(double amount) {

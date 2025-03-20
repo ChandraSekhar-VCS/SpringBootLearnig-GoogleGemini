@@ -1,4 +1,4 @@
-package Assignment_1;
+package day1.Assignment_1;
 
 //NOTIFICATION PROCESSOR FOR CONSTRUCTOR INJECTION
 //public class NotificationProcessor {
